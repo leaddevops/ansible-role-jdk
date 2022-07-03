@@ -1,0 +1,18 @@
+---
+galaxy_info:
+  author: Naresh
+  namespace: leaddevops
+  role_name: jdk
+  description: Install and configure jdk on your system.
+  license: Apache-2.0
+  company: none
+  min_ansible_version: "2.10"
+
+  platforms:
+    - name: Ubuntu
+    - name: Amazon
+
+  galaxy_tags:
+    - jenkins
+    - server
+    - system
